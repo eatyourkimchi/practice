@@ -1,0 +1,29 @@
+#box1 {
+	border: 2px solid black;
+	padding-bottom: 30px;
+	margin-top: 50px;
+	width: 20%;
+	text-align: justify-all;
+}
+
+#box2 {
+	border: 2px solid rgb(255, 77, 77, 0.7);
+}
+
+#box3 {
+	border: 2px solid black;
+	font-family: "Archivo Black", sans-serif;
+	padding: 30px;
+	width: 80%;
+	border-radius: 15px;
+
+}
+
+body {
+	font-family: "Lato", sans-serif;
+}
+
+p {
+	font-family: "Raleway",, sans-serif;
+}
+
